@@ -7,7 +7,7 @@ public class Hello {
         int a=input.nextInt();
         System.out.println("enter b");
         int b= input.nextInt();
-        int c=a+b;
+        int c=a*b;
         System.out.println(c);
     }
 }
