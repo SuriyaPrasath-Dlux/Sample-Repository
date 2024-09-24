@@ -8,6 +8,6 @@ public class Hello {
         System.out.println("enter b");
         int b= input.nextInt();
         int c=a*b;
-        System.out.println(c);
+        System.out.println("the answer is "+c);
     }
 }
